@@ -1,0 +1,18 @@
+h3 {
+    color:turquoise;
+    margin-right: 30px;
+    padding: 70px;
+    position: static;
+    border: 3px solid #81cc17;
+    }
+p,h1 {
+    display: flex;
+    text-align: center;
+    }
+title {
+    display: flex;
+    background-color: salmon;
+}    
+a:hover {
+    background-color: yellow;
+  }
